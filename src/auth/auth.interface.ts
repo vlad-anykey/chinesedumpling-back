@@ -1,0 +1,1 @@
+export type TypeRole = 'admin' | 'editor' | 'user' | undefined
